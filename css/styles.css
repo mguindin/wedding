@@ -88,7 +88,7 @@ h3 {
 }
 .page-section.intro {
 	color: #FEFEF2;
-	background: url('../images/couple_1a.jpg') center center no-repeat;
+	background: url('../images/couple_2a.jpg') center center no-repeat;
 	background-size: cover;
 }
 .headline, .introbuttons {
@@ -106,7 +106,7 @@ h3 {
 	text-align: center;
 }
 .page-section#story {
-	background: url('../images/couple_2a.jpg') bottom center no-repeat;
+	background: url('../images/couple_1a.jpg') bottom center no-repeat;
 	background-size: cover;
 }
 .page-section#reception {
