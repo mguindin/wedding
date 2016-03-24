@@ -286,6 +286,13 @@ hr {border-color: #ddd;}
   text-align: center;
   }
 
+.registry-list {
+  list-style-type: none;
+	font-size: x-large;
+  margin:0px auto;
+  text-align: justify;
+  }
+
 .centered-btns_tabs li,
 .transparent-btns_tabs li,
 .large-btns_tabs li {
