@@ -89,6 +89,7 @@ h3 {
 .page-section.intro {
 	color: #FEFEF2;
 	background: url('../images/couple_2a.jpg') center center no-repeat;
+  width: 100%;
 	background-size: cover;
 }
 .headline, .introbuttons {
