@@ -88,7 +88,7 @@ h3 {
 }
 .page-section.intro {
 	color: #FEFEF2;
-	background: url('../images/couple_2a.jpg') center center no-repeat;
+	background: url('../images/couple_1.jpg') center center no-repeat;
   width: 100%;
 	background-size: cover;
 }
@@ -107,20 +107,24 @@ h3 {
 	margin: 1.5em auto;
 	text-align: center;
 }
-.page-section#weddingstory {
-	background: url('../images/couple_1a.jpg') bottom center no-repeat;
+.page-section#story {
+	background: url('../images/couple_2.jpg') bottom center no-repeat;
 	background-size: cover;
 }
 .page-section#reception {
-	background: url('') bottom center no-repeat;
+	background: url('../images/couple_3.jpg') bottom center no-repeat;
 	background-size: cover;
 }
 .page-section#registry {
-	background: url('') bottom center no-repeat;
+	background: url('../images/couple_5.jpg') bottom center no-repeat;
 	background-size: cover;
 }
 .page-section#photos {
-	background: url('../images/oliver_1a.jpg') top center no-repeat;
+	background: url('../images/couple_4.jpg') top center no-repeat;
+	background-size: cover;
+}
+.page-section#room-blocks {
+	background: url('../images/couple_6.jpg') top center no-repeat;
 	background-size: cover;
 }
 .btn {
